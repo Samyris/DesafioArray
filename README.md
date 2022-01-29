@@ -7,3 +7,4 @@ REGRAS:
 - Criar Array com a quantidade de valores desejada pelo usuário.
 - Criar laço for tradicional para armazenar as notas no array.
   - Solicitar que o usuário digite a nota de 0 até n, sendo n o maior índice do array criado.
+- Criar laço foreach, para percorrer todo o array. somar todos os valores e dividir pelo número de notas. 
